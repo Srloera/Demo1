@@ -1,0 +1,20 @@
+WindowsStandalone
+PlayerPath?
+C:/Users/SrLoera/AppData/Local/Temp/DefaultCompany/Demo1/customscene.vrcw
+SceneListBegin?
+Assets/VRCSDK/Examples/Scenes/Example-Actions.unity
+SceneListEnd?
+ed2f55581dee6a32311eddab9a27bfcd Assembly-CSharp.dll:VRC.Core.VRCPipelineManager
+0b0399c4b7b49c440fa718ace4ac585a UnityEngine.UI.dll:UnityEngine.UI.CanvasScaler
+a2313de45ed47f1a12bb2d80e8b2de54 UnityEngine.UI.dll:UnityEngine.UI.GraphicRaycaster
+b8f057a5d96b66234b3230a0d800dcf6 UnityEngine.UI.dll:UnityEngine.UI.Image
+769e576fcd3f60fa29a2cccb9e8127d9 UnityEngine.UI.dll:UnityEngine.UI.Text
+42baff09cd5fe39d92f6ba6230fb8178 VRCSDK2.dll:VRCSDK2.VRC_CombatSystem
+c589473c77179b5cfcc07f806c31d533 VRCSDK2.dll:VRCSDK2.VRC_DestructibleStandard
+76626e9194b1b49806454cbf67a33263 VRCSDK2.dll:VRCSDK2.VRC_EventHandler
+53a83fce1454f88bc808138f420c86ff VRCSDK2.dll:VRCSDK2.VRC_ObjectSync
+c794cf5fa4919c876905062358a1467d VRCSDK2.dll:VRCSDK2.VRC_Pickup
+03280f1ae5f02bf306f43f2d54978fcd VRCSDK2.dll:VRCSDK2.VRC_SceneDescriptor
+17638e1e6d062f07c30a31ae86208751 VRCSDK2.dll:VRCSDK2.VRC_SpecialLayer
+4a280e79c5a035824f0c0aabcae1232f VRCSDK2.dll:VRCSDK2.VRC_Trigger
+650c1e412dac0323d37ae3023565f947 Assembly-CSharp.dll:.TestCustomScript
